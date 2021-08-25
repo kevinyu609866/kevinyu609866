@@ -1,6 +1,6 @@
 Hi, I'm Jia Kevin Yu, a recent university graduate with a Masters in Stats/Data Science and a Bachelors in Computer Science/Math. 
 
-I am currently working as an analyst with the Los Angelos Clippers, specifically using data science tools and methods for revenue optimization. 
+I am currently working as an analyst with the Los Angeles Clippers, specifically using data science tools and methods for revenue optimization. 
 
 Throughout my professional career, I have amassed experience as a Quality Assurance Engineer using mostly SQL, Automation Engineer using Selenium/C#/SQL, Software Developer in VDF/C#, and now Data Analytics/Science with R, Python, and SQL.
 
